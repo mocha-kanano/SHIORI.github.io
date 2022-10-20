@@ -10,4 +10,4 @@ layout: home
 
 もちゃのサイトにようこそ。
 これ画像ははれるのかしら。
-<img src="S__18833429.jpg" widht="300px">
+<img src="SHIORI.github.io/image/S__18833429.jpg" widht="300px">
