@@ -1,1 +1,3 @@
 # SHIORI.github.io
+
+しおりのさいとへようこそ
