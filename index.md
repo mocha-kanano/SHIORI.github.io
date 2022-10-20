@@ -10,4 +10,4 @@ layout: home
 
 もちゃのサイトにようこそ。
 これ画像ははれるのかしら。
-width="200px" height="100px" ![S__18833429](https://user-images.githubusercontent.com/112707839/196977593-5da07317-908a-4588-9635-0a8e7a8de5c3.jpg)
+<img src=https://user-images.githubusercontent.com/112707839/196977593-5da07317-908a-4588-9635-0a8e7a8de5c3.jpg width="200px" height="100px">
