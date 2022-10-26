@@ -7,3 +7,4 @@
 #
 layout: home
 ---
+![アセット 1](https://user-images.githubusercontent.com/112707839/198036543-6bf2526c-4308-4d8a-88cd-18d023f81548.png)
