@@ -5,7 +5,6 @@ categories: misc
 ---
 
 <div align="left">
-<h1>Googleストリートビューを活用して図書館内を撮影・公開する方法</h1>
 <h2>この機材があればできる！(準備)</h2>
 ・PC ：(Intel core i3以上推奨)<br>
 ・スマホ：Android / iPhone 問わず<br>
