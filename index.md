@@ -12,3 +12,8 @@ layout: home
 2. <a href="https://mocha-kanano.github.io/SHIORI.github.io/mocha/" target="_blank" rel="noopener noreferrer">もちゃの部屋</a>.
 
 ![アセット 3](https://user-images.githubusercontent.com/112707839/198044311-dc3e9399-6d35-4ac5-9fe8-e2b88b642996.png)
+
+<form action="https://mocha-kanano.github.io/SHIORI.github.io/" method="get">
+ <input type="search" name="search" placeholder="キーワードを入力”>
+ <input type="submit" name="submit" value="検索”>
+</form>
