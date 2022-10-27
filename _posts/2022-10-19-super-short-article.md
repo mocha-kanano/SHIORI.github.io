@@ -4,6 +4,8 @@ title: "無料で図書館内のGoogleストリートビューを作成する"
 categories: Google
 ---
 
+<iframe src="https://www.google.com/maps/embed?pb=!4v1666868442037!6m8!1m7!1sF8cOJUZOc9M6hTa-fGfCOg!2m2!1d35.67871255332661!2d139.7445867327241!3f230.25!4f-14.079999999999998!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 <div align="left">
 <h2>この機材があればできる！(準備)</h2>
 ・PC ：(Intel core i3以上推奨)<br>
