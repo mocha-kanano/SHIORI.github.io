@@ -15,8 +15,9 @@ layout: home
 
 
 
-
-<form id="form1" action="https://mocha-kanano.github.io/SHIORI.github.io/">
-<input id="sbox"  id="s" name="s" type="text" placeholder="キーワードを入力" />
-<input id="sbtn" type="submit" value="検索" />
+<form method=”get” action=http://www.google.co.jp/search target=”_blank”>
+<input type=”text” name="query" size="30" maxlength="255" value="">
+<input type=”submit” name="btn" value="検索">
+<input type="hidden" name="hl" value="ja">
+<input type="hidden" name="sitesearch" value="xxxxx.co.jp">
 </form>
