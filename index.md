@@ -15,6 +15,8 @@ layout: home
 
 
 
-<form id="form1" action="https://mocha-kanano.github.io/SHIORI.github.io/" method="get">
-<input id="sbox1" id="s" name="s" type="text" placeholder="キーワードを入力" />
-<input id="sbtn1" type="submit" value="検索" /></form>
+
+<form id="form1" action="https://mocha-kanano.github.io/SHIORI.github.io/">
+<input id="sbox"  id="s" name="s" type="text" placeholder="キーワードを入力" />
+<input id="sbtn" type="submit" value="検索" />
+</form>
