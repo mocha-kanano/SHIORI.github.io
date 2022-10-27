@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "無料で図書館内のGoogleストリートビューを作成する"
-categories: misc
+categories: Google
 ---
 
 <div align="left">
