@@ -14,10 +14,3 @@ layout: home
 ![アセット 3](https://user-images.githubusercontent.com/112707839/198044311-dc3e9399-6d35-4ac5-9fe8-e2b88b642996.png)
 
 
-
-<form method=”get” action=http://www.google.co.jp/search target=”_blank”>
-<input type=”text” name="query" size="30" maxlength="255" value="">
-<input type=”submit” name="btn" value="検索">
-<input type="hidden" name="hl" value="ja">
-<input type="hidden" name="sitesearch" value="xxxxx.co.jp">
-</form>
