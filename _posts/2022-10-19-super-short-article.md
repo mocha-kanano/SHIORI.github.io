@@ -1,11 +1,23 @@
 ---
 layout: post
-title: "無料で図書館内のGoogleストリートビューを作成する"
+title: "1.無料で館内のGoogleストリートビューを作成・公開する"
 categories: Google
 ---
+<br>
+<br>
+突然ですが、国立国会図書館がGoogleストリートビューのサイトを活用して館内を公開しているのをご存知でしょうか。
+<br>
+<br>
+※マウスをドラッグすることで、360度景色を見渡すことができます。
+　Googleストリートビューを詳しく知りたい方はこちら⤵︎
+　https://support.google.com/maps/answer/3402585?hl=ja
 
-<iframe src="https://www.google.com/maps/embed?pb=!4v1666868442037!6m8!1m7!1sF8cOJUZOc9M6hTa-fGfCOg!2m2!1d35.67871255332661!2d139.7445867327241!3f230.25!4f-14.079999999999998!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
+<iframe src="https://www.google.com/maps/embed?pb=!4v1666868442037!6m8!1m7!1sF8cOJUZOc9M6hTa-fGfCOg!2m2!1d35.67871255332661!2d139.7445867327241!3f230.25!4f-14.079999999999998!5f0.7820865974627469" width="400" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<br>
+Googleストリートビューの機能を使うことで、自宅にいながらも図書館にいるような感覚を味わうことができ、
+コロナ禍における図書館の案内や、アクセスが不便な図書館を広報するなど
+様々な使い方ができると思います。
+<br>
 <div align="left">
 <h2>この機材があればできる！(準備)</h2>
 ・PC ：(Intel core i3以上推奨)<br>
