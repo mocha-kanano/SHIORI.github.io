@@ -52,3 +52,14 @@ Googleストリートビューの撮影・公開には様々な方法があり�
 デジカメで撮影する場合は、手振れや位置ずれを防ぐため三脚などがあれば便利かと思います。
 　
 <br><br>
+手順①　PCに360度画像化の編集ソフトをインストールする<br>
+<br>
+今回使用したソフトはMicrosoftが提供していた「Image Composite Editor 」です。<br>
+windowsとの互換性や簡単に使えることを基準に選定した結果、このソフトが良いと判断しました。<br>
+<br>
+このソフトは2020年9月ごろ、Microsoftのサイト上で提供を終了しているとのことで、<br>
+今回は過去のサイトにアクセスできる「wayback machine」サイトから過去のMicrosoftサイトをたどり、当ソフトのインストールを行っております。<br>
+<br>
+MicrosoftサイトのURL；https://web.archive.org/web/20200713185611/https://www.microsoft.com/en-us/download/details.aspx?id=52459
+※MSのサポート期限が切れているため、インストール後の挙動については自己責任でお願いします。
+※が、windows11でも問題なく作動しました。(2022/09/08)
