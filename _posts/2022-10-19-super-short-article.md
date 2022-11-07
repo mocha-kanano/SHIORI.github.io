@@ -76,6 +76,6 @@ windowsとの互換性や簡単に使えることを基準に選定した結果�
 このソフトは2020年9月ごろ、Microsoftのサイト上で提供を終了しているとのことで、<br>
 今回は過去のサイトにアクセスできる「wayback machine」サイトから過去のMicrosoftサイトをたどり、当ソフトのインストールを行っております。<br>
 <br>
-<a href="https://web.archive.org/web/20200713185611/https://www.microsoft.com/en-us/download/details.aspx?id=52459" target="_blank" alt="microsoftのサイト"></a><br>
+<a href="https://web.archive.org/web/20200713185611/https://www.microsoft.com/en-us/download/details.aspx?id=52459" target="_blank"> microsoftのサイト</a><br>
 ※MSのサポート期限が切れているため、インストール後の挙動については自己責任でお願いします。<br>
 ※が、windows11でも問題なく作動しました。(2022/09/08)
