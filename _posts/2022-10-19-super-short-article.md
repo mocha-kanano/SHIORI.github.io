@@ -27,7 +27,7 @@ categories: Google
 <br>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1666868442037!6m8!1m7!1sF8cOJUZOc9M6hTa-fGfCOg!2m2!1d35.67871255332661!2d139.7445867327241!3f230.25!4f-14.079999999999998!5f0.7820865974627469" width="400" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe><br>
 Googleストリートビューについて詳しく知りたい方はこちら⤵︎<br>
-https://support.google.com/maps/answer/3402585?hl=ja
+<a href=https://support.google.com/maps/answer/3402585?hl=ja>
 <br>
 Googleストリートビューの機能を使うことで、自宅にいながらも図書館にいるような感覚を味わうことができ、<br>
 コロナ禍における図書館の案内や、アクセスが不便な図書館を広報するなど様々な使い方ができると思います。
@@ -76,6 +76,6 @@ windowsとの互換性や簡単に使えることを基準に選定した結果�
 このソフトは2020年9月ごろ、Microsoftのサイト上で提供を終了しているとのことで、<br>
 今回は過去のサイトにアクセスできる「wayback machine」サイトから過去のMicrosoftサイトをたどり、当ソフトのインストールを行っております。<br>
 <br>
-MicrosoftサイトのURL；https://web.archive.org/web/20200713185611/https://www.microsoft.com/en-us/download/details.aspx?id=52459<br>
+MicrosoftサイトのURL；<a href=https://web.archive.org/web/20200713185611/https://www.microsoft.com/en-us/download/details.aspx?id=52459><br>
 ※MSのサポート期限が切れているため、インストール後の挙動については自己責任でお願いします。<br>
 ※が、windows11でも問題なく作動しました。(2022/09/08)
