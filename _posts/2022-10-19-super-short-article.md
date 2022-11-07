@@ -81,11 +81,14 @@ windowsとの互換性や簡単に使えることを基準に選定した結果�
 下の画像は撮影した写真をICEにて編集し、360度画像にした画像となります。<br>
 一見歪んでいるようにみえますが、ストリートビューで見たときには、立体的な写真となります。<br>
  
- ![受付 (1)](https://user-images.githubusercontent.com/112707839/200247251-74ee41df-7493-47d0-b604-7176e34a8fcc.jpg)
+![受付 (1)](https://user-images.githubusercontent.com/112707839/200247946-0a2ccb87-7554-48b6-9db2-33875e1d9b72.jpg)
+
 
 このソフトは2020年9月ごろ、Microsoftのサイト上で提供を終了しているとのことで、<br>
 今回は過去のサイトにアクセスできる「wayback machine」サイトから過去のMicrosoftサイトをたどり、当ソフトのインストールを行っております。<br>
 <br>
 <a href="https://web.archive.org/web/20200713185611/https://www.microsoft.com/en-us/download/details.aspx?id=52459" target="_blank">ダウンロードサイト(microsoftのサイト)</a><br>
 ※MSのサポート期限が切れているため、インストール後の挙動については自己責任でお願いします。<br>
-※が、windows11でも問題なく作動しました。(2022/09/08)
+※が、windows11でも問題なく作動しました。(2022/09/08)<br><br>
+ 
+ 
