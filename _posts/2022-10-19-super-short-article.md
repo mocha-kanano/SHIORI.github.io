@@ -21,7 +21,7 @@ categories: Google
 <a href="#photo">作業1：館内を撮影する </a> 
 </div>
 
-<h2 id="#intro">Introduction</h2>
+<h2 id="intro">Introduction</h2>
 国立国会図書館がGoogleストリートビューを活用し図書館内の様子を公開しているのをご存知でしょうか。<br><br>
 ※マウスをドラッグすることで、360度景色を見渡すことができます。<br>
 <br>
@@ -40,7 +40,7 @@ Googleストリートビューの撮影・公開には様々な方法があり�
 <div align="left">
 
  
- <h2 id="#ready">準備-機材編-</h2>
+ <h2 id="ready">準備-機材編-</h2>
 <br><br>
 ・PC ：(Intel core i3以上推奨)<br>画像編集を行うため、core i7以上のスペックを持つPC推奨。<br>
 　※core i3スペックのPCでも編集可能ですが、1つの画像処理に15分以上かかりました..<br><br>
@@ -54,7 +54,7 @@ Googleストリートビューの撮影・公開には様々な方法があり�
 ・GIMP for Windows<br>
 ・Go thru（無料版）<br><br>
  
-<h2 id="#photo">作業1：館内を撮影する</h2>
+<h2 id="photo">作業1：館内を撮影する</h2>
 <br><br>
  
  
