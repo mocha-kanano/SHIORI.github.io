@@ -19,8 +19,8 @@ categories: Google
 <h3><b>目次</b></h3>
 <a href="#intro">・introduction </a><br>
 <a href="#ready">・準備　-機材編- </a><br>
-<a href="#photo">・作業1：館内を撮影する </a> 
-<a href="#install">・作業2：画像を360度の画像に変換する</a> 
+<a href="#photo">・作業1：館内を撮影する </a> <br>
+<a href="#install">・作業2：画像を360度の画像に変換する</a> <br>
 </div>
 
 <h2 id="intro">Introduction</h2>
@@ -74,12 +74,18 @@ Googleストリートビューの撮影・公開には様々な方法があり�
  <hr>
 手順①　PCに360度画像化の編集ソフトをインストールする<br>
 <br>
-今回使用したソフトはMicrosoftが提供していた「Image Composite Editor 」です。<br>
+今回使用したソフトはMicrosoftが提供していた「Image Composite Editor 」です。(以下ICEと省略)<br>
+このソフトは、画像の撮影時間を参照し、自動で360度化した画像に編集してくれます。<br>
 windowsとの互換性や簡単に使えることを基準に選定した結果、このソフトが良いと判断しました。<br>
 <br>
+下の画像は撮影した写真をICEにて編集し、360度画像にした画像となります。<br>
+一見歪んでいるようにみえますが、ストリートビューで見たときには、立体的な写真となります。<br>
+ 
+ ![受付 (1)](https://user-images.githubusercontent.com/112707839/200247251-74ee41df-7493-47d0-b604-7176e34a8fcc.jpg)
+
 このソフトは2020年9月ごろ、Microsoftのサイト上で提供を終了しているとのことで、<br>
 今回は過去のサイトにアクセスできる「wayback machine」サイトから過去のMicrosoftサイトをたどり、当ソフトのインストールを行っております。<br>
 <br>
-<a href="https://web.archive.org/web/20200713185611/https://www.microsoft.com/en-us/download/details.aspx?id=52459" target="_blank"> microsoftのサイト</a><br>
+<a href="https://web.archive.org/web/20200713185611/https://www.microsoft.com/en-us/download/details.aspx?id=52459" target="_blank">ダウンロードサイト(microsoftのサイト)</a><br>
 ※MSのサポート期限が切れているため、インストール後の挙動については自己責任でお願いします。<br>
 ※が、windows11でも問題なく作動しました。(2022/09/08)
