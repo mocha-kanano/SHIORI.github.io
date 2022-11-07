@@ -20,7 +20,7 @@ categories: Google
 <a href="#intro">・introduction </a><br>
 <a href="#ready">・準備　-機材編- </a><br>
 <a href="#photo">・手順1:館内を撮影する </a> <br>
-<a href="#install">・手順2:画像を360度の画像に変換する</a> <br>
+<a href="#install">・手順2:画像を360度の画像に編集する</a> <br>
 </div>
 
 <h2 id="intro">Introduction</h2>
@@ -76,15 +76,9 @@ Googleストリートビューに写真を載せるには、360度画像とい�
 <br>
 <h2 id="install">手順2：画像を360度の画像に編集する</h2>
  <hr>
-手順①　PCにMicrosoft ICE（編集ソフト）をインストールする<br>
-<br>
 今回使用したソフトはMicrosoftが提供していた「Image Composite Editor 」です。(以下ICEと省略)<br>
-このソフトは、画像の撮影時間を参照し、自動で360度化した画像に編集してくれます。<br>
-windowsとの互換性や簡単に使えることを基準に選定した結果、このソフトが良いと判断しました。<br>
+ICEは、画像の撮影時間を参照し、自動で360度化した画像を出力します。<br>
 <br>
-下の画像は撮影した写真をICEにて編集し、360度画像にした画像となります。<br>
-一見歪んでいるようにみえますが、ストリートビューで見たときには、立体的な写真となります。<br>
- ![This is an image](https://lh4.googleusercontent.com/HR_3U_B-bx3Ej7wpB2Mv2o5pgCw5rLL938HfJ-xJw7c-MpJYGpk5rOMjQ7W5r8tG6ysCZ-fKzoRkupxg0Vwx5QGrOUY_kqUSXCrQVjDWhgiSndevmwUWMEHAIh4mX83Rkbzog3kzFsy3x1V4jWCAyA）<br>
 手順:
 ①以下のダウンロードサイトから編集ソフトをインストールする。
 このソフトは2020年9月ごろ、Microsoftのサイト上で提供を終了しているとのことで、<br>
