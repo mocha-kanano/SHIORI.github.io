@@ -19,8 +19,8 @@ categories: Google
 <h3><b>目次</b></h3>
 <a href="#intro">・introduction </a><br>
 <a href="#ready">・準備　-機材編- </a><br>
-<a href="#photo">・作業1：館内を撮影する </a> <br>
-<a href="#install">・作業2：画像を360度の画像に変換する</a> <br>
+<a href="#photo">・手順1:館内を撮影する </a> <br>
+<a href="#install">・手順2:画像を360度の画像に変換する</a> <br>
 </div>
 
 <h2 id="intro">Introduction</h2>
@@ -74,7 +74,7 @@ Googleストリートビューに写真を載せるには、360度画像とい�
 
 ※ハンディカム・アクションカメラで撮影する場合、三脚を付けることができないため、回転式のオフィスチェアに座って周りながら撮影しました。(意外と綺麗に撮影できました。) <br>
 <br>
-<h2 id="install">作業2：画像を360度の画像に変換する</h2>
+<h2 id="install">手順2：画像を360度の画像に変換する</h2>
  <hr>
 手順①　PCにMicrosoft ICE（編集ソフト）をインストールする<br>
 <br>
