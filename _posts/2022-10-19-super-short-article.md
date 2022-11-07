@@ -14,11 +14,10 @@ categories: Google
 <!--目次ページ--><!--目次を追加する場合は以下のテンプレートをご使用ください。
 --テンプレート--　【目次→<a href="#★★">・〇〇図書館</a></div>】【見出し→<h3 id="★★">・〇〇図書館</h3>】　★は任意の文字(英数)を入力ください。-->
 
-<div style="border-radius: 5px; border: 3px dashed #b0c4de ;font-size: 100%; padding: 20px;">
+<div style="border-radius: 2px; border: 2px dashed #b0c4de ;font-size: 100%; padding: 10px;">
 <h3><b>目次</b></h3>
 <a href="#はじめに">introduction </a><br>
 <a href="#用意するもの">準備　-機材編- </a>
-<a href="#用意するもの">準備　-- </a>  
 </div>
 
 <h2 id="#はじめに">Introduction</h2>
