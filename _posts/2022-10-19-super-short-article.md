@@ -74,7 +74,7 @@ Googleストリートビューに写真を載せるには、360度画像とい�
 
 ※ハンディカム・アクションカメラで撮影する場合、三脚を付けることができないため、回転式のオフィスチェアに座って周りながら撮影しました。(意外と綺麗に撮影できました。) <br>
 <br>
-<h2 id="install">手順2：画像を360度の画像に変換する</h2>
+<h2 id="install">手順2：画像を360度の画像に編集する</h2>
  <hr>
 手順①　PCにMicrosoft ICE（編集ソフト）をインストールする<br>
 <br>
@@ -84,10 +84,9 @@ windowsとの互換性や簡単に使えることを基準に選定した結果�
 <br>
 下の画像は撮影した写真をICEにて編集し、360度画像にした画像となります。<br>
 一見歪んでいるようにみえますが、ストリートビューで見たときには、立体的な写真となります。<br>
- 
-
+ ![This is an image](https://lh4.googleusercontent.com/HR_3U_B-bx3Ej7wpB2Mv2o5pgCw5rLL938HfJ-xJw7c-MpJYGpk5rOMjQ7W5r8tG6ysCZ-fKzoRkupxg0Vwx5QGrOUY_kqUSXCrQVjDWhgiSndevmwUWMEHAIh4mX83Rkbzog3kzFsy3x1V4jWCAyA）<br>
 手順:
-以下ダウンロードサイトから編集ソフトをインストールする。
+①以下のダウンロードサイトから編集ソフトをインストールする。
 このソフトは2020年9月ごろ、Microsoftのサイト上で提供を終了しているとのことで、<br>
 今回は過去のサイトにアクセスできる「wayback machine」サイトから過去のMicrosoftサイトをたどり、当ソフトのインストールを行っております。<br>
 <br>
@@ -98,4 +97,13 @@ windowsとの互換性や簡単に使えることを基準に選定した結果�
 <a href="https://www.naporitansushi.com/ice-not-download/">うまくインストールできない場合はこちらのサイトを参考ください</a><br>。丁寧でわかりやすい解説が公開されております。
 
 
+
+②ソフトを起動し、「New panorama」を選択。
+　※インストール後、デスクトップ画面に表示されない場合があります。この場合はwindows+Sキーで「ICE」と入力し、検索を行ってください。
+
+
+③エクスプローラーが自動で立ち上がるので、360度画像にしたい画像を選択する。この際、Shiftキーを押しながらまとめて画像選択する。
+
+④選択した画像がICE側にアップロードされたら、画面右横の青ボタン「Simple panorama」をクリック。
+この際、青ボタン下の「camera motion」が「Auto direct」になっているかを確認する。
  
