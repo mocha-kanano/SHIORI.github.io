@@ -96,6 +96,8 @@ ICEは、画像の撮影時間を参照し、自動で360度化した画像を�
 
 
 <b>②ソフトを起動し、「New panorama」を選択。</b>
+<image src="https://user-images.githubusercontent.com/112707839/200499830-bfa8b8f3-c835-4050-a537-50714f55166f.JPG" />
+
 <br>※インストール後、デスクトップ画面に表示されない場合があります。この場合はwindows+Sキーで「ICE」と入力し、検索を行ってください。<br>
 <br>
 
