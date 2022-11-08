@@ -29,9 +29,9 @@ categories: Google
 国立国会図書館がGoogleストリートビューを活用し図書館内の様子を公開しているのをご存知でしょうか。<br><br>
 ※マウスをドラッグすることで、360度景色を見渡すことができます。<br>
 <br>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1667891949127!6m8!1m7!1sCAoSLEFGMVFpcE1BU3JJdEl0bGNHV2x1NFA4WnN4TC1lck50cm1peFVQZGwyUTNZ!2m2!1d35.659956684452!2d139.74566229738!3f351.4751285601994!4f0.4378803382282257!5f0.7820865974627469" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<br><br>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1667891949127!6m8!1m7!1sCAoSLEFGMVFpcE1BU3JJdEl0bGNHV2x1NFA4WnN4TC1lck50cm1peFVQZGwyUTNZ!2m2!1d35.659956684452!2d139.74566229738!3f351.4751285601994!4f0.4378803382282257!5f0.7820865974627469" width="500" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
+<br><br>
 Googleストリートビューについて詳しく知りたい方は<a href="https://support.google.com/maps/answer/3402585?hl=ja" target="_blank">「こちら」</a><br>
 <br>
 Googleストリートビューの機能を使うことで、自宅にいながらも図書館にいるような感覚を味わうことができ、<br>
