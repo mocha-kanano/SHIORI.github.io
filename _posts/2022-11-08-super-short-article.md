@@ -115,8 +115,7 @@ ICEは、画像の撮影時間を参照し、自動で360度化した画像を�
  
 <br><br>
 <h4>参考サイト</h4>
- 参考サイト
-<a href="[[https://www.naporitansushi.com/ice-not-download/](https://petile.com/mahoroba/e1488.html)](https://petile.com/mahoroba/e1488.html)">・Microsoft ICE 1.4.4 (写真からパノラマ写真）</a>
-・ストリートビューへの投稿まで 東京情報大学 浅沼 市男
-・【Image Composite Editor】ダウンロードできない時の対処法
+<a href="https://www.naporitansushi.com/ice-not-download/">・Microsoft ICE 1.4.4 (写真からパノラマ写真）</a>
+<a href="http://www.edu.tuis.ac.jp/~asanuma/Asanuma2007/Lectures/SI2007/StreetView.pdf">・ストリートビューへの投稿まで 東京情報大学 浅沼 市男</a>
+<a href="https://www.naporitansushi.com/ice-not-download/">・【Image Composite Editor】ダウンロードできない時の対処法</a>
 
