@@ -29,7 +29,7 @@ categories: Google
 国立国会図書館がGoogleストリートビューを活用し図書館内の様子を公開しているのをご存知でしょうか。<br><br>
 ※マウスをドラッグすることで、360度景色を見渡すことができます。<br>
 <br>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1666868442037!6m8!1m7!1sF8cOJUZOc9M6hTa-fGfCOg!2m2!1d35.67871255332661!2d139.7445867327241!3f230.25!4f-14.079999999999998!5f0.7820865974627469" width="400" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe><br>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1666868442037!6m8!1m7!1sF8cOJUZOc9M6hTa-fGfCOg!2m2!1d35.67871255332661!2d139.7445867327241!3f230.25!4f-14.079999999999998!5f0.7820865974627469" width="400" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"　width=></iframe><br>
 Googleストリートビューについて詳しく知りたい方は<a href="https://support.google.com/maps/answer/3402585?hl=ja" target="_blank">「こちら」</a><br>
 <br>
 Googleストリートビューの機能を使うことで、自宅にいながらも図書館にいるような感覚を味わうことができ、<br>
@@ -48,7 +48,7 @@ Googleストリートビューの撮影・公開には様々な方法があり�
 ・PC (Intel core i3以上推奨)<br>　画像編集を行うため、core i7以上のスペックを持つPC推奨。<br>　※core i3スペックのPCでも編集可能ですが、1つの画像処理に15分以上かかりました..</p><br><br>
 ・カメラ：<br>　デジカメやGoproなど<br>　今回はDJI「OSMO POCKET」を使用。手振れが防止されるほか、360度撮影で重要な「一定の角度での撮影」が可能なため、撮影に適していると判断し使用。<br><br>
 
-<image src="https://user-images.githubusercontent.com/112707839/200494999-1947018e-6b30-4814-9ca3-92aac13f7424.jpg" />
+<image src="https://user-images.githubusercontent.com/112707839/200494999-1947018e-6b30-4814-9ca3-92aac13f7424.jpg" width="300/>
 
 
 <br><br>
