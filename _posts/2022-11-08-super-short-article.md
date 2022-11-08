@@ -45,18 +45,22 @@ Googleストリートビューの撮影・公開には様々な方法があり�
  
  <h2 id="ready">準備-機材編-</h2>
  <hr>
-・PC ：(Intel core i3以上推奨)<br><br>　画像編集を行うため、core i7以上のスペックを持つPC推奨。<br><br>※core i3スペックのPCでも編集可能ですが、1つの画像処理に15分以上かかりました..<br><br>
+・PC ：(Intel core i3以上推奨)<br><p><span></span>画像編集を行うため、core i7以上のスペックを持つPC推奨。<br>※core i3スペックのPCでも編集可能ですが、1つの画像処理に15分以上かかりました..</p>
 ・カメラ：画素数の高いカメラ。デジカメやGoproなど<br><br>
  　今回はDJI「OSMO POCKET」を使用。手振れが防止されるほか、360度撮影で重要な「一定の角度での撮影」が可能なため、撮影に適していると判断し使用。<br><br>
-![2889107](https://user-images.githubusercontent.com/112707839/200488432-f82e99de-cab8-4870-9717-23a9d8fa9c4b.jpg)
 
-<b>(あると便利なもの)</b><br><br>
+ ![OIP](https://user-images.githubusercontent.com/112707839/200488717-c3d80972-6220-4396-aecf-465c835b8563.jpg)
+
+ 
+<span style="color:#a9a9a9;">
+ <b>(あると便利なもの)</b><br><br>
 ・三脚<br><br>
 デジカメで撮影する場合は、手振れや位置ずれを防ぐため三脚などがあれば便利かと思います。<br><br><br>
 <h4>使用ソフト</h4>
 ・Microsoft Image Composite Editor<br>
 ・GIMP for Windows<br>
 ・Go thru（無料版）<br><br>
+ </span><br><br>
  
 <h2 id="photo">手順1：館内を撮影する</h2>
  <hr>
