@@ -95,15 +95,19 @@ ICEは、画像の撮影時間を参照し、自動で360度化した画像を�
 <br><br>
 
 
-<b>②ソフトを起動し、「New panorama」を選択。</b>
+<b>②ソフトを起動し、「New panorama」を選択。</b><br>
 <image src="https://user-images.githubusercontent.com/112707839/200499830-bfa8b8f3-c835-4050-a537-50714f55166f.JPG" />
-
+<br>
 <br>※インストール後、デスクトップ画面に表示されない場合があります。この場合はwindows+Sキーで「ICE」と入力し、検索を行ってください。<br>
 <br>
 
-<b>③エクスプローラーが自動で立ち上がるので、360度画像にしたい画像を選択する。</b>
+<b>③ファイルエクスプローラーが自動で立ち上がるので、360度画像にしたい画像を選択する。</b>
 <br><br>この際、Shiftキーを押しながらまとめて画像選択する。<br><br>
-
-<b>④選択した画像がICE側にアップロードされたら、画面右横の青ボタン「Simple panorama」をクリック。</b>
-<br><br>この際、青ボタン下の「camera motion」が「Auto direct」になっているかを確認する。<br>
  
+ 
+<b>④選択した画像がICE側にアップロードされたら、画面右横の青ボタン「Simple panorama」をクリック。</b>
+<br><br>この際、青ボタン下の「camera motion」が「Auto direct」になっているかを確認する。<br><br>
+<image src="https://user-images.githubusercontent.com/112707839/200500119-16b84ce4-a3dd-416b-a629-1d0395c35e52.JPG" /> 
+<br><br>
+ 
+<image src="https://user-images.githubusercontent.com/112707839/200500439-7fdfb258-8fc5-4dfa-a98a-b0c2eb3c08c0.png" /> 
