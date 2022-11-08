@@ -17,7 +17,7 @@ categories: Google
 --テンプレート--　【目次→<a href="#★★">・〇〇図書館</a></div>】【見出し→<h3 id="★★">・〇〇図書館</h3>】　★は任意の文字(英数)を入力ください。-->
 
 <div style="border-radius: 2px; border: 2px dashed #b0c4de ;font-size: 100%; padding: 5px;">
-<h4>目次</b></h4>
+<h4>目次</h4>
 <a href="#intro">・introduction </a><br>
 <a href="#ready">・準備　-機材編- </a><br>
 <a href="#photo">・手順1:館内を撮影する </a> <br>
