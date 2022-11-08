@@ -50,17 +50,13 @@ Googleストリートビューの撮影・公開には様々な方法があり�
 
  ![OIP](https://user-images.githubusercontent.com/112707839/200488717-c3d80972-6220-4396-aecf-465c835b8563.jpg)
 
- 
+<br><br>
+
 <span style="color:#a9a9a9;">
  <b>(あると便利なもの)</b><br><br>
 ・三脚<br><br>
-デジカメで撮影する場合は、手振れや位置ずれを防ぐため三脚などがあれば便利かと思います。<br><br><br>
-<h4>使用ソフト</h4>
-・Microsoft Image Composite Editor<br>
-・GIMP for Windows<br>
-・Go thru（無料版）<br><br>
- </span><br><br>
- 
+デジカメで撮影する場合は、手振れや位置ずれを防ぐため三脚などがあれば便利かと思います。</span>
+
 <h2 id="photo">手順1：館内を撮影する</h2>
  <hr>
 Googleストリートビューに写真を載せるには、360度画像という特殊な加工をした画像が必要です。
