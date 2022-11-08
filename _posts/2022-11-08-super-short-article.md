@@ -48,7 +48,7 @@ Googleストリートビューの撮影・公開には様々な方法があり�
 ・PC (Intel core i3以上推奨)<br>　画像編集を行うため、core i7以上のスペックを持つPC推奨。<br>　※core i3スペックのPCでも編集可能ですが、1つの画像処理に15分以上かかりました..</p>
 ・カメラ：<br>　デジカメやGoproなど<br>　今回はDJI「OSMO POCKET」を使用。手振れが防止されるほか、360度撮影で重要な「一定の角度での撮影」が可能なため、撮影に適していると判断し使用。<br><br>
 
- <img src="https://user-images.githubusercontent.com/112707839/200488717-c3d80972-6220-4396-aecf-465c835b8563.jpg>
+![OIP](https://user-images.githubusercontent.com/112707839/200494812-11879f47-463e-4ccf-9444-98a75f1e915e.jpg)
 
 <br><br>
 
