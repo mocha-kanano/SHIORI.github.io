@@ -110,4 +110,5 @@ ICEは、画像の撮影時間を参照し、自動で360度化した画像を�
 <image src="https://user-images.githubusercontent.com/112707839/200500119-16b84ce4-a3dd-416b-a629-1d0395c35e52.JPG" /> 
 <br><br>
  
-<image src="https://user-images.githubusercontent.com/112707839/200500439-7fdfb258-8fc5-4dfa-a98a-b0c2eb3c08c0.png" /> 
+
+<image src="https://user-images.githubusercontent.com/112707839/200500546-ec2ddf0c-d5b2-420d-96db-02bd0f4fd30b.JPG" /> 
