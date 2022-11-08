@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "1.Googleストリートビューに館内の写真を公開する"
+title: "1.Googleストリートビューに館内の写真を公開する(更新中)"
 categories: Google
 ---
 
