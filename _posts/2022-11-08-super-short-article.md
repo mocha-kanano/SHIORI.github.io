@@ -29,9 +29,9 @@ categories: Google
 <hr>
 
 RICOH THETAやGoproなど手軽に360度景色を撮影できるカメラが発売され、気軽にGoogleストリートビューやバーチャル風景が
-アップロードできる時代になってきました。
-
-<image src="https://user-images.githubusercontent.com/112707839/201267054-7b23ca69-c6f5-49b1-bdde-6a947e6f5e92.JPG](https://user-images.githubusercontent.com/112707839/201267956-636cc26a-e724-484b-85b3-d6f5af84457f.JPG")
+アップロードできる時代になってきました。<br>
+<image src="https://user-images.githubusercontent.com/112707839/201268093-b7d069b0-e43c-468f-9b45-b55d55b221f1.jpg">
+<br>
 (https://theta360.com/ja/)
 <br><br>
 これらの技術を活用し、図書館内の様子を公開している図書館も増えてきています。<br><br>
