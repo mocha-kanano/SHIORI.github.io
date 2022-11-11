@@ -22,6 +22,7 @@ categories: Google
 <a href="#ready">・準備　-機材編- </a><br>
 <a href="#photo">・手順1:館内を撮影する </a> <br>
 <a href="#install">・手順2:画像を360度の画像に編集する</a> <br>
+<a href="#fix">・手順3:画像を360度の画像に編集する</a> <br>
 </div>
 
 <h2 id="intro">Introduction</h2>
@@ -29,7 +30,7 @@ categories: Google
 
 RICOH THETAやGoproなど手軽に360度景色を撮影できるカメラが発売され、気軽にGoogleストリートビューやバーチャル風景が
 アップロードできる時代になってきました。
-<image src="https://user-images.githubusercontent.com/112707839/200494999-1947018e-6b30-4814-9ca3-92aac13f7424.jpg" alt="" width="300">
+<image src="https://user-images.githubusercontent.com/112707839/201267054-7b23ca69-c6f5-49b1-bdde-6a947e6f5e92.JPG")
 (https://theta360.com/ja/)
 <br><br>
 これらの技術を活用し、図書館内の様子を公開している図書館も増えてきています。<br><br>
@@ -63,7 +64,7 @@ Googleストリートビューの撮影・公開には様々な方法があり�
 
 <span style="color:#a9a9a9;">
  <b>(あると便利なもの)</b><br><br>
-・三脚<br><br>
+・三脚<br>
 デジカメで撮影する場合は、手振れや位置ずれを防ぐため三脚などがあれば便利かと思います。</span>
 
 <h2 id="photo">手順1：館内を撮影する</h2>
@@ -75,7 +76,7 @@ Googleストリートビューに写真を載せるには、360度画像とい�
 <b>①撮影したい地点を設定し、養生テープなどで地面に目印を貼る。<br><br>
 ②地面に目印を付けた地点からなるべく足をずらさずに、少しずつ回りながら撮影。</b><br><br>
 
-<div style = "border: solid 1px #b0c4de"> <span style="color:#f39c12;">　撮影をする際には、以下のことを心がけてください。<br><br>
+<div style = "border: solid 1px #b0c4de"> <span style="color:#f39c12;"><br>撮影をする際には、以下のことを心がけてください。<br><br>
 　　・必ず、1/4以上の画像が重複するように撮る<br>
 　　・できるだけ水平を保つようにする<br>
 　　・オートフォーカス（自動焦点）を使わず、同じ焦点距離で撮影する<br>
@@ -117,12 +118,19 @@ ICEは、画像の撮影時間を参照し、自動で360度化した画像を�
 <br><br>この際、青ボタン下の「camera motion」が「Auto direct」になっているかを確認する。<br><br>
 <image src="https://user-images.githubusercontent.com/112707839/200500119-16b84ce4-a3dd-416b-a629-1d0395c35e52.JPG" /> 
 <br>
-                                                                                                                   <br>
+<image src="https://user-images.githubusercontent.com/112707839/201266837-ab834b43-07c9-48bb-986b-fd7c91f033a2.jpg">
+<span style="color:#a9a9a9;">※うっかり編集画面のスクショを撮り忘れてしまったので、以下ブログさんから引用させていただきます...。
+(https://www.ilovefreesoftware.com/24/featured/free-panorama-creator-software-windows-10.html)</span>
  
 出力をする際に、下画像のような形になっていれば成功です。歪んでいるように見えますが、Googleストリートビューに落とし込むと
 きれいな画像になります。
                                                                                                                    
 <image src="https://user-images.githubusercontent.com/112707839/200500546-ec2ddf0c-d5b2-420d-96db-02bd0f4fd30b.JPG" /> 
+
+<h2 id="fix">手順3：360度の画像を修正する</h2>
+<hr>
+
+ 
  
 <br><br>
 <h4>参考サイト</h4>
@@ -130,3 +138,4 @@ ICEは、画像の撮影時間を参照し、自動で360度化した画像を�
 <a href="http://www.edu.tuis.ac.jp/~asanuma/Asanuma2007/Lectures/SI2007/StreetView.pdf">・ストリートビューへの投稿まで 東京情報大学 浅沼 市男</a><br>
 <a href="https://www.naporitansushi.com/ice-not-download/">・【Image Composite Editor】ダウンロードできない時の対処法</a><br>
 
+ 
