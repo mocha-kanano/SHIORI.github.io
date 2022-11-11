@@ -73,11 +73,11 @@ Googleストリートビューに写真を載せるには、360度画像とい�
 <b>①撮影したい地点を設定し、養生テープなどで地面に目印を貼る。<br><br>
 ②地面に目印を付けた地点からなるべく足をずらさずに、少しずつ回りながら撮影。</b><br><br>
 
-<div style = "border: solid 1px #b0c4de"> <span style="color:#f39c12;">撮影をする際には、以下のことを心がけてください。<br>
-　・必ず、1/4以上の画像が重複するように撮る<br>
-　・できるだけ水平を保つようにする<br>
-　・オートフォーカス（自動焦点）を使わず、同じ焦点距離で撮影する<br>
-　・明るさを変えずに、露出を固定して撮影する</span>
+<div style = "border: solid 1px #b0c4de"> <span style="color:#f39c12;">　撮影をする際には、以下のことを心がけてください。<br><br>
+　　・必ず、1/4以上の画像が重複するように撮る<br>
+　　・できるだけ水平を保つようにする<br>
+　　・オートフォーカス（自動焦点）を使わず、同じ焦点距離で撮影する<br>
+　　・明るさを変えずに、露出を固定して撮影する<br><br></span>
  </div>
 <br><br>
 
@@ -90,14 +90,14 @@ ICEは、画像の撮影時間を参照し、自動で360度化した画像を�
 <br>
 <h4>手順:</h4>
 <b>①以下のダウンロードサイトから編集ソフトをインストールする。</b><br>
+<a href="https://web.archive.org/web/20200713185611/https://www.microsoft.com/en-us/download/details.aspx?id=52459">ダウンロードサイト(microsoftのサイト)</a><br><br>
 このソフトは2020年9月ごろ、Microsoftのサイト上で提供を終了しているとのことで、<br>
 今回は過去のサイトにアクセスできる「wayback machine」サイトから過去のMicrosoftサイトをたどり、当ソフトのインストールを行っております。<br>
 <br>
-<a href="https://web.archive.org/web/20200713185611/https://www.microsoft.com/en-us/download/details.aspx?id=52459">ダウンロードサイト(microsoftのサイト)</a><br><br>
 ※MSのサポート期限が切れているため、インストール後の挙動については自己責任でお願いします。<br>
 ※が、windows11でも問題なく作動しました。(2022/09/08)<br><br>
 
-<a href="https://www.naporitansushi.com/ice-not-download/">うまくインストールできない場合はこちらのサイトを参考ください</a>丁寧でわかりやすい解説が公開されております。
+<a href="https://www.naporitansushi.com/ice-not-download/">※うまくインストールできない場合はこちらのサイトを参考ください。</a>　丁寧でわかりやすい解説が公開されております。
 <br><br>
 
 
@@ -106,17 +106,20 @@ ICEは、画像の撮影時間を参照し、自動で360度化した画像を�
 <br>
 <br>※インストール後、デスクトップ画面に表示されない場合があります。この場合はwindows+Sキーで「ICE」と入力し、検索を行ってください。<br>
 <br>
-
+<br>
 <b>③ファイルエクスプローラーが自動で立ち上がるので、360度画像にしたい画像を選択する。</b>
-<br><br>この際、Shiftキーを押しながらまとめて画像選択する。<br><br>
- 
- 
+<br><br>この際、Shiftキーを押しながらまとめて画像選択すると複数の写真が選択できます。<br>
+<br>
+<br> 
 <b>④選択した画像がICE側にアップロードされたら、画面右横の青ボタン「Simple panorama」をクリック。</b>
 <br><br>この際、青ボタン下の「camera motion」が「Auto direct」になっているかを確認する。<br><br>
 <image src="https://user-images.githubusercontent.com/112707839/200500119-16b84ce4-a3dd-416b-a629-1d0395c35e52.JPG" /> 
-<br><br>
+<br>
+                                                                                                                   <br>
  
-
+出力をする際に、下画像のような形になっていれば成功です。歪んでいるように見えますが、Googleストリートビューに落とし込むと
+きれいな画像になります。
+                                                                                                                   
 <image src="https://user-images.githubusercontent.com/112707839/200500546-ec2ddf0c-d5b2-420d-96db-02bd0f4fd30b.JPG" /> 
  
 <br><br>
