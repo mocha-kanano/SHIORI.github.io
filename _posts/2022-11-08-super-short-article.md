@@ -30,7 +30,7 @@ categories: Google
 
 RICOH THETAやGoproなど手軽に360度景色を撮影できるカメラが発売され、気軽にGoogleストリートビューやバーチャル風景が
 アップロードできる時代になってきました。<br>
-<image src="https://user-images.githubusercontent.com/112707839/201268093-b7d069b0-e43c-468f-9b45-b55d55b221f1.jpg">
+<image src="https://user-images.githubusercontent.com/112707839/201268173-cfd2bf38-3d05-493f-8d11-cc6255cf8272.JPG" alt="" width="500">
 <br>
 (https://theta360.com/ja/)
 <br><br>
