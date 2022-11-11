@@ -27,9 +27,11 @@ categories: Google
 <h2 id="intro">Introduction</h2>
 <hr>
 
-ThetaやGoproなど手軽に360度景色を撮影できるカメラが発売され、気軽にGoogleストリートビューやバーチャル風景が
+RICOH THETAやGoproなど手軽に360度景色を撮影できるカメラが発売され、気軽にGoogleストリートビューやバーチャル風景が
 アップロードできる時代になってきました。
-<br>
+<image src="https://user-images.githubusercontent.com/112707839/200494999-1947018e-6b30-4814-9ca3-92aac13f7424.jpg" alt="" width="300">
+(https://theta360.com/ja/)
+<br><br>
 これらの技術を活用し、図書館内の様子を公開している図書館も増えてきています。<br><br>
 ※マウスをドラッグすることで、360度景色を見渡すことができます。<br>
 <br>
