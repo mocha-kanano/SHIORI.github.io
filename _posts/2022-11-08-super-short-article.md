@@ -26,7 +26,11 @@ categories: Google
 
 <h2 id="intro">Introduction</h2>
 <hr>
-国立国会図書館がGoogleストリートビューを活用し図書館内の様子を公開しているのをご存知でしょうか。<br><br>
+
+ThetaやGoproなど手軽に360度景色を撮影できるカメラが発売され、気軽にGoogleストリートビューやバーチャル風景が
+アップロードできる時代になってきました。
+<br>
+これらの技術を活用し、図書館内の様子を公開している図書館も増えてきています。<br><br>
 ※マウスをドラッグすることで、360度景色を見渡すことができます。<br>
 <br>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1667891949127!6m8!1m7!1sCAoSLEFGMVFpcE1BU3JJdEl0bGNHV2x1NFA4WnN4TC1lck50cm1peFVQZGwyUTNZ!2m2!1d35.659956684452!2d139.74566229738!3f351.4751285601994!4f0.4378803382282257!5f0.7820865974627469" width="500" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -35,7 +39,7 @@ categories: Google
 Googleストリートビューについて詳しく知りたい方は<a href="https://support.google.com/maps/answer/3402585?hl=ja" target="_blank">「こちら」</a><br>
 <br>
 Googleストリートビューの機能を使うことで、自宅にいながらも図書館にいるような感覚を味わうことができ、<br>
-コロナ禍における図書館の案内や、アクセスが不便な図書館を広報するなど様々な使い方ができると思います。
+コロナ禍における図書館案内やアクセスが不便な図書館の広報など、様々活用が考えられます。
 <br>
 <br>
 Googleストリートビューの撮影・公開には様々な方法がありますが、外部に発注をすると、10-15万ほど費用がかかってしまいます…
@@ -50,7 +54,7 @@ Googleストリートビューの撮影・公開には様々な方法があり�
 ・PC (Intel core i3以上推奨)<br>　画像編集を行うため、core i7以上のスペックを持つPC推奨。<br>　※core i3スペックのPCでも編集可能ですが、1つの画像処理に15分以上かかりました..</p><br><br>
 ・カメラ：<br>　デジカメやGoproなど<br>　今回はDJI「OSMO POCKET」を使用。手振れが防止されるほか、360度撮影で重要な「一定の角度での撮影」が可能なため、撮影に適していると判断し使用。<br><br>
 
-<image src="https://user-images.githubusercontent.com/112707839/200494999-1947018e-6b30-4814-9ca3-92aac13f7424.jpg" />
+<image src="https://user-images.githubusercontent.com/112707839/200494999-1947018e-6b30-4814-9ca3-92aac13f7424.jpg" alt="" width="300/>
 
 
 <br><br>
