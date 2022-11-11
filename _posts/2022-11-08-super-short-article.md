@@ -117,10 +117,19 @@ ICEは、画像の撮影時間を参照し、自動で360度化した画像を�
 <b>④選択した画像がICE側にアップロードされたら、画面右横の青ボタン「Simple panorama」をクリック。</b>
 <br><br>この際、青ボタン下の「camera motion」が「Auto direct」になっているかを確認する。<br><br>
 <image src="https://user-images.githubusercontent.com/112707839/200500119-16b84ce4-a3dd-416b-a629-1d0395c35e52.JPG" /> 
-<br>
+<br><br>
+ 
+<b>⑤画像がうまくつなぎ合わされていることを確認し、球体マークがついている「Spherical」をクリック。 </b>
 <image src="https://user-images.githubusercontent.com/112707839/201266837-ab834b43-07c9-48bb-986b-fd7c91f033a2.jpg">
-<span style="color:#a9a9a9;">※うっかり編集画面のスクショを撮り忘れてしまったので、以下ブログさんから引用させていただきます...。
+<span style="color:#a9a9a9;">
+ <br>※うっかり編集画面のスクショを撮り忘れてしまったので、以下ブログさんから引用させていただきます...。
 (https://www.ilovefreesoftware.com/24/featured/free-panorama-creator-software-windows-10.html)</span>
+<br><br>
+ICEは自動的に撮影時間を参照し、画像同士をつなぎ合わせてくれるソフトです。
+画像の撮影時間がまばらであったり、画像のピントがあっていないとうまく合成できません。
+うまくつなぎ合わせられないときは、手順1に戻り撮影しなおすか、②の手順に戻り編集の再実行を何度かおこなってみてください。
+
+
  
 出力をする際に、下画像のような形になっていれば成功です。歪んでいるように見えますが、Googleストリートビューに落とし込むと
 きれいな画像になります。
