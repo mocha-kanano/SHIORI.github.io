@@ -28,22 +28,20 @@ categories: Google
 <h2 id="intro">Introduction</h2>
 <hr>
 
-RICOH THETAやGoproなど手軽に360度景色を撮影できるカメラが発売され、気軽にGoogleストリートビューやバーチャル風景が
-アップロードできる時代になってきました。<br>
+RICOH THETA、Goproカメラを使って、手軽にGoogleストリートビューやバーチャル風景がアップロードできる時代になりました。<br><br>
 <image src="https://user-images.githubusercontent.com/112707839/201268173-cfd2bf38-3d05-493f-8d11-cc6255cf8272.JPG" alt="" width="500">
 <br>
-(https://theta360.com/ja/)
+<a href="https://theta360.com/ja/">
 <br><br>
-これらの技術を活用し、図書館内の様子を公開している図書館も増えてきています。<br><br>
+図書館でも館内の様子を分かりやすく伝えるため、ストリートビューをアップロードしているところが増えてきています。<br><br>
 ※マウスをドラッグすることで、360度景色を見渡すことができます。<br>
 <br>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1667891949127!6m8!1m7!1sCAoSLEFGMVFpcE1BU3JJdEl0bGNHV2x1NFA4WnN4TC1lck50cm1peFVQZGwyUTNZ!2m2!1d35.659956684452!2d139.74566229738!3f351.4751285601994!4f0.4378803382282257!5f0.7820865974627469" width="500" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1667891949127!6m8!1m7!1sCAoSLEFGMVFpcE1BU3JJdEl0bGNHV2x1NFA4WnN4TC1lck50cm1peFVQZGwyUTNZ!2m2!1d35.659956684452!2d139.74566229738!3f351.4751285601994!4f0.4378803382282257!5f0.7820865974627469" width="800" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 <br><br>
 Googleストリートビューについて詳しく知りたい方は<a href="https://support.google.com/maps/answer/3402585?hl=ja" target="_blank">「こちら」</a><br>
 <br>
-Googleストリートビューの機能を使うことで、自宅にいながらも図書館にいるような感覚を味わうことができ、<br>
-コロナ禍における図書館案内やアクセスが不便な図書館の広報など、様々活用が考えられます。
+この機能を使うことで、自宅にいながらも図書館にいるような感覚を味わうことができ、コロナ禍において図書館案内やアクセスが不便な図書館の広報が可能となります。
 <br>
 <br>
 Googleストリートビューの撮影・公開には様々な方法がありますが、外部に発注をすると、10-15万ほど費用がかかってしまいます…
@@ -77,12 +75,12 @@ Googleストリートビューに写真を載せるには、360度画像とい�
 <b>①撮影したい地点を設定し、養生テープなどで地面に目印を貼る。<br><br>
 ②地面に目印を付けた地点からなるべく足をずらさずに、少しずつ回りながら撮影。</b><br><br>
 
-<div style = "border: solid 1px #b0c4de"> <span style="color:#f39c12;"><br>撮影をする際には、以下のことを心がけてください。<br><br>
+<div style = "border: solid 1px #696969"> <span style="color:#696969;"><br>　撮影をする際には、以下のことを心がけてください。<br><br>
 　　・必ず、1/4以上の画像が重複するように撮る<br>
 　　・撮影日を跨がないようにする。（時間の間隔を空けない）<br>
 　　・できるだけ水平を保つようにする。<br>
 　　・オートフォーカス（自動焦点）を使わず、同じ焦点距離で撮影する<br>
-・明るさを変えずに、露出を固定して撮影する<br><br></span>
+　　・明るさを変えずに、露出を固定して撮影する<br><br></span>
  </div>
 <br><br>
 
@@ -127,13 +125,11 @@ ICEは、画像の撮影時間を参照し、自動で360度化した画像を�
  <br>※うっかり編集画面のスクショを撮り忘れてしまったので、以下ブログさんから引用させていただきます...。
 (https://www.ilovefreesoftware.com/24/featured/free-panorama-creator-software-windows-10.html)</span>
 <br><br>
-<div style = "border: solid 1px #b0c4de"> <span style="color:#f39c12;"><br>
+<span style="color:#f39c12;"><br>　注意...<br>
 　ICEは自動的に撮影時間を参照し、画像同士をつなぎ合わせてくれるソフトです。　<br>
 　画像の撮影時間がまばらであったり、画像のピントがあっていないとうまく合成できません。　<br>
-　うまくつなぎ合わせられないときは、手順1に戻り撮影しなおすか、②の手順に戻り編集の再実行を何度かおこなってみてください。　<br></span></div>
-
-
- 
+　うまくつなぎ合わせられないときは、手順1に戻り撮影しなおすか、②の手順に戻り編集の再実行を何度かお試しください。　<br></span></div>
+<br><br>
 出力をする際に、下画像のような形になっていれば成功です。歪んでいるように見えますが、Googleストリートビューに落とし込むと
 きれいな画像になります。
                                                                                                                    
