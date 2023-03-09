@@ -36,7 +36,7 @@ RICOH THETA、Goproカメラを使って、手軽にGoogleストリートビュ�
 図書館でも館内の様子を分かりやすく伝えるため、ストリートビューをアップロードしているところが増えてきています。<br><br>
 ※マウスをドラッグすることで、360度景色を見渡すことができます。<br>
 <br>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1667891949127!6m8!1m7!1sCAoSLEFGMVFpcE1BU3JJdEl0bGNHV2x1NFA4WnN4TC1lck50cm1peFVQZGwyUTNZ!2m2!1d35.659956684452!2d139.74566229738!3f351.4751285601994!4f0.4378803382282257!5f0.7820865974627469" width="800" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1667891949127!6m8!1m7!1sCAoSLEFGMVFpcE1BU3JJdEl0bGNHV2x1NFA4WnN4TC1lck50cm1peFVQZGwyUTNZ!2m2!1d35.659956684452!2d139.74566229738!3f351.4751285601994!4f0.4378803382282257!5f0.7820865974627469" width="800" height="00" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 <br><br>
 Googleストリートビューについて詳しく知りたい方は<a href="https://support.google.com/maps/answer/3402585?hl=ja" target="_blank">「こちら」</a><br>
@@ -135,12 +135,10 @@ ICEは、画像の撮影時間を参照し、自動で360度化した画像を�
 <br><br>
  
  
-出力をする際に、下画像のような形になっていれば成功です。歪んでいるように見えますが、Googleストリートビューに落とし込むと
-きれいな画像になります。<br>
-画像を見ると、
+出力をする際に、下画像のような形になっていれば成功です。歪んでいるように見えますが、Googleストリートビューで表示する際には立体的な画像になります。<br>
                                                                                                                    
-<image src="https://user-images.githubusercontent.com/112707839/224005045-8310333b-b48a-4ffd-ac19-43955155acdc.jpg" /> ![S__23101445]
-
+<image src="https://user-images.githubusercontent.com/112707839/224005045-8310333b-b48a-4ffd-ac19-43955155acdc.jpg" /> <br><br>
+次の手順では画像上下にある黒い部分を埋めていく作業となります。<br>
 
 <h2 id="fix">手順3：360度の画像を修正する</h2>
 <hr>
