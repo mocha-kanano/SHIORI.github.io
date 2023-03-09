@@ -31,7 +31,7 @@ categories: Google
 RICOH THETA、Goproカメラを使って、手軽にGoogleストリートビューやバーチャル風景がアップロードできる時代になりました。<br><br>
 <image src="https://user-images.githubusercontent.com/112707839/201268173-cfd2bf38-3d05-493f-8d11-cc6255cf8272.JPG" alt="" width="500">
 <br>
-<a href="https://theta360.com/ja/">
+<a href="https://theta360.com/ja/"></a>
 <br><br>
 図書館でも館内の様子を分かりやすく伝えるため、ストリートビューをアップロードしているところが増えてきています。<br><br>
 ※マウスをドラッグすることで、360度景色を見渡すことができます。<br>
