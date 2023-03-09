@@ -143,7 +143,7 @@ ICEは、画像の撮影時間を参照し、自動で360度化した画像を�
 <h2 id="fix">手順3：360度の画像を修正する</h2>
 <hr>
 
- 
+ <image src="https://user-images.githubusercontent.com/112707839/224010519-9fa06866-a399-49f8-b483-469fbe3fdd19.png" /> 
  
 <br><br>
 <h4>参考サイト</h4>
