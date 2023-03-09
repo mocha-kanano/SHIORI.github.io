@@ -136,9 +136,11 @@ ICEは、画像の撮影時間を参照し、自動で360度化した画像を�
  
  
 出力をする際に、下画像のような形になっていれば成功です。歪んでいるように見えますが、Googleストリートビューに落とし込むと
-きれいな画像になります。
+きれいな画像になります。<br>
+画像を見ると、
                                                                                                                    
-<image src="https://user-images.githubusercontent.com/112707839/200500546-ec2ddf0c-d5b2-420d-96db-02bd0f4fd30b.JPG" /> 
+<image src="https://user-images.githubusercontent.com/112707839/224005045-8310333b-b48a-4ffd-ac19-43955155acdc.jpg" /> ![S__23101445]
+
 
 <h2 id="fix">手順3：360度の画像を修正する</h2>
 <hr>
